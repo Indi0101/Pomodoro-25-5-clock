@@ -281,23 +281,6 @@ Actualmente permite configurar los períodos de concentración y descanso, ejecu
 
 ---
 
-## 🚀 Posibles mejoras
-
-Algunas mejoras que podrían incorporarse posteriormente:
-
-- Mostrar visualmente si el temporizador está en modo `Session` o `Break`.
-- Permitir continuar exactamente desde el tiempo pausado.
-- Mejorar la lógica de reinicio.
-- Limitar los valores máximos configurables.
-- Mejorar el comportamiento del audio.
-- Adaptar la interfaz a dispositivos móviles.
-- Migrar el proyecto a Vite.
-- Separar la interfaz en componentes React más pequeños.
-- Agregar persistencia de preferencias.
-- Incorporar estadísticas de sesiones completadas.
-
----
-
 ## 👩‍💻 Autora
 
 Desarrollado por **Indira** como parte de mi portafolio de desarrollo de software.
