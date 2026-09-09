@@ -275,9 +275,31 @@ El objetivo fue aplicar conceptos de React en una aplicación interactiva con ma
 
 ## 📌 Estado del proyecto
 
-Proyecto funcional de aprendizaje.
+Proyecto completado y funcional desarrollado como parte de mi formación en React.
 
-Actualmente permite configurar los períodos de concentración y descanso, ejecutar el temporizador, alternar automáticamente entre ambos modos y reproducir una alerta al finalizar cada período.
+La aplicación permite:
+
+- Configurar la duración de concentración y descanso.
+- Iniciar, pausar y reiniciar el temporizador.
+- Alternar automáticamente entre los ciclos de concentración y descanso.
+- Reproducir una alerta al finalizar cada período.
+
+---
+
+## 💡 Conceptos aplicados
+
+Durante el desarrollo del proyecto trabajé con:
+
+- Componentes funcionales de React.
+- Manejo de estado con `useState`.
+- Efectos con `useEffect`.
+- Eventos de usuario.
+- Temporizadores con `setInterval`.
+- Limpieza de efectos con `clearInterval`.
+- Renderizado dinámico.
+- Manejo de audio en el navegador.
+- JSX.
+- CSS y Flexbox.
 
 ---
 
